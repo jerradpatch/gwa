@@ -1,0 +1,32 @@
+{
+  "name": "toolingtest2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "install": "^0.8.1",
+    "npm": "^3.10.6"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-sourcemaps": "^1.6.0",
+    "gutil": "^1.6.4",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack": "^1.13.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
